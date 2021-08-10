@@ -1,0 +1,44 @@
+{
+  "translation": {
+    "selectedLang": "English",
+    "nav": {
+      "home": "Home",
+      "products": "Products",
+      "news": "News",
+      "media": "Media",
+      "about": "About",
+      "contact": "Contact",
+      "menu": "Menu"
+    },
+    "home": {
+      "slogan": {
+        "title": "Perfection in simplicity",
+        "text": "AQUALINK produces and delivers quality products aimed at the fish farming industry with high quality materials and minimal strain on the environment"
+      }
+    },
+    "products": {
+      "certificates": "Certificates"
+    },
+    "contact": {
+      "name": "Name",
+      "name-placeholder": "John Doe",
+      "email": "Email",
+      "email-placeholder": "john@doe.com",
+      "subject": "Subject",
+      "subject-placeholder": "Your subject here",
+      "message": "Message",
+      "message-placeholder": "Your message here...",
+      "telephone": "Telephone",
+      "address": "Address",
+      "reset": "Reset",
+      "ceo": "CEO / Manager",
+      "send-message": "Send Message",
+      "error": {
+        "name": "Cannot be empty",
+        "email": "Invalid email",
+        "subject": "Subject must be at least 5 characters",
+        "message": "Message must be at least 10 characters"
+      }
+    }
+  }
+}

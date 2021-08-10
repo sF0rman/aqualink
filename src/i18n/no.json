@@ -1,0 +1,44 @@
+{
+  "translation": {
+    "selectedLang": "Norsk",
+    "nav": {
+      "home": "Hjem",
+      "products": "Produkter",
+      "news": "Nyheter",
+      "media": "Media",
+      "about": "Om",
+      "contact": "Kontakt",
+      "menu": "Menu"
+    },
+    "home": {
+      "slogan": {
+        "title": "Perfeksjon i enkelhet",
+        "text": "AQUALINK produserer og leverer kvalitetsprodukter siktet mot fiskeoppdrettsindustrien med materialer av høy kvalitet som gir minimal belastning på ytre miljø"
+      }
+    },
+    "products": {
+      "certificates": "Sertifikater"
+    },
+    "contact": {
+      "name": "Navn",
+      "name-placeholder": "Ola Nordmann",
+      "email": "Epost",
+      "email-placeholder": "ola@nordmann.no",
+      "subject": "Emne",
+      "subject-placeholder": "Ditt emne her...",
+      "message": "Melding",
+      "message-placeholder": "Din beskjed her...",
+      "telephone": "Telefon",
+      "address": "Adresse",
+      "reset": "Nullstill",
+      "ceo": "Daglig leder",
+      "send-message": "Send Melding",
+      "error": {
+        "name": "Navn kan ikke være tomt",
+        "email": "Ugyldig Epost",
+        "subject": "Emne må være minst 5 tegn",
+        "message": "Meldingen må være minst 10 tegn"
+      }
+    }
+  }
+}
